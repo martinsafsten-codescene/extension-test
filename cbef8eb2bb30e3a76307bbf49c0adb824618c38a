@@ -1,0 +1,23 @@
+vsc/src/smelly/DuplicatedCodeExample.js
+  cea5f5c0bbe7b2d8 1-8,10-12,14-16,18-20,22-24,26-27,30-36,38-40,42-44,46-48,50-52,54-55,58-64,67,70-71,74-78,81,84-85,88-92,95,98-99,102-124
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.5",
+  "base_commit_sha": "cbef8eb2bb30e3a76307bbf49c0adb824618c38a",
+  "prompts": {
+    "cea5f5c0bbe7b2d8": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "fb702f42-64cc-43b8-b0d8-0ef81f8007f8",
+        "model": "default"
+      },
+      "human_author": "Martin Säfsten <martin.safsten@codescene.com>",
+      "messages": [],
+      "total_additions": 477,
+      "total_deletions": 0,
+      "accepted_lines": 431,
+      "overriden_lines": 55
+    }
+  }
+}
