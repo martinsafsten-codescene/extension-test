@@ -1,0 +1,23 @@
+jetbrains/src/main/kotlin/org/example/smelly/BrainMethodExample.kt
+  b8525ab8ba09c499 1-126
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.5",
+  "base_commit_sha": "c83db6c417b51dce977a9d09c2cf6531c356b2e0",
+  "prompts": {
+    "b8525ab8ba09c499": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "3bc76a5d-ba13-430d-9b40-bef31283c487",
+        "model": "default"
+      },
+      "human_author": "Martin Säfsten <martin.safsten@codescene.com>",
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 707,
+      "overriden_lines": 0
+    }
+  }
+}
