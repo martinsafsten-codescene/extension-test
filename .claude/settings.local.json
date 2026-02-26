@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls -1 vsc/*.ts vsc/*.tsx)"
+    ]
+  }
+}
