@@ -1,0 +1,23 @@
+jetbrains/src/main/kotlin/org/example/smelly/FeatureEnvyExample.kt
+  b8525ab8ba09c499 1-82
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.2",
+  "base_commit_sha": "300107b53edb495b8b981a4630dbc1313a04e917",
+  "prompts": {
+    "b8525ab8ba09c499": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "3bc76a5d-ba13-430d-9b40-bef31283c487",
+        "model": "default"
+      },
+      "human_author": "Martin Säfsten <martin.safsten@codescene.com>",
+      "messages": [],
+      "total_additions": 794,
+      "total_deletions": 5,
+      "accepted_lines": 789,
+      "overriden_lines": 0
+    }
+  }
+}
