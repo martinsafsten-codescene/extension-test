@@ -1,0 +1,35 @@
+jetbrains/src/main/kotlin/org/example/smelly/LongParameterListExample.kt
+  b8525ab8ba09c499 1-81
+jetbrains/src/main/kotlin/org/example/smelly/DuplicatedCodeExample.kt
+  b8525ab8ba09c499 1-127
+jetbrains/src/main/kotlin/org/example/smelly/GodClassExample.kt
+  b8525ab8ba09c499 1-133
+jetbrains/src/main/kotlin/org/example/smelly/DeepNestingExample.kt
+  b8525ab8ba09c499 1-84
+jetbrains/src/main/kotlin/org/example/smelly/PrimitiveObsessionExample.kt
+  b8525ab8ba09c499 1-73
+jetbrains/src/main/kotlin/org/example/smelly/ComplexConditionalExample.kt
+  b8525ab8ba09c499 1-81
+jetbrains/build.gradle.kts
+  b8525ab8ba09c499 3,14
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.5",
+  "base_commit_sha": "7f2e4cbe67044ca4988e20feb5dc3d81d258df8d",
+  "prompts": {
+    "b8525ab8ba09c499": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "3bc76a5d-ba13-430d-9b40-bef31283c487",
+        "model": "default"
+      },
+      "human_author": "Martin Säfsten <martin.safsten@codescene.com>",
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 581,
+      "overriden_lines": 0
+    }
+  }
+}
