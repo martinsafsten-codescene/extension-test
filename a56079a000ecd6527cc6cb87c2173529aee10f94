@@ -1,0 +1,22 @@
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.5",
+  "base_commit_sha": "a56079a000ecd6527cc6cb87c2173529aee10f94",
+  "prompts": {
+    "cea5f5c0bbe7b2d8": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "fb702f42-64cc-43b8-b0d8-0ef81f8007f8",
+        "model": "default"
+      },
+      "human_author": "Martin Säfsten <martin.safsten@codescene.com>",
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 339,
+      "overriden_lines": 0,
+      "messages_url": "https://usegitai.com/cas/294a284d5a2855d2bd9dac1253736107698931ce75b79ef739f33e71b086afee"
+    }
+  }
+}
