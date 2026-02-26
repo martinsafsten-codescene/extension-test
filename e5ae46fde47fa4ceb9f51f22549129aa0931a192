@@ -1,0 +1,38 @@
+vsc/src/clojure/DuplicatedCodeExample.clj
+  9bbcdbbf13ffee01 1-200
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.5",
+  "base_commit_sha": "e5ae46fde47fa4ceb9f51f22549129aa0931a192",
+  "prompts": {
+    "9bbcdbbf13ffee01": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "fe4f7eb2-2895-404e-8241-2cc99bf0ace4",
+        "model": "claude-sonnet-4-5-20250929"
+      },
+      "human_author": "Martin Säfsten <martin.safsten@codescene.com>",
+      "messages": [],
+      "total_additions": 200,
+      "total_deletions": 0,
+      "accepted_lines": 200,
+      "overriden_lines": 0,
+      "messages_url": "https://usegitai.com/cas/6f3f63ec5cb6249a066876dea7cdc3f3fa084c128a573101dfb8107a75e806c2"
+    },
+    "cea5f5c0bbe7b2d8": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "fb702f42-64cc-43b8-b0d8-0ef81f8007f8",
+        "model": "default"
+      },
+      "human_author": "Martin Säfsten <martin.safsten@codescene.com>",
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 339,
+      "overriden_lines": 0,
+      "messages_url": "https://usegitai.com/cas/294a284d5a2855d2bd9dac1253736107698931ce75b79ef739f33e71b086afee"
+    }
+  }
+}
